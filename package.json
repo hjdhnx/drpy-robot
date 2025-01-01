@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "json5": "^2.2.3",
+    "markdown-pdf": "^11.0.0"
+  },
+  "type": "module",
+  "name": "drpy-robot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hjdhnx/drpy-robot.git",
+  "author": "晚风拂柳颜 <434857005@qq.com>",
+  "license": "MIT"
+}
