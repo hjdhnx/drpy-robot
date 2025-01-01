@@ -1,6 +1,8 @@
 # drpy-robot
 
-drpy的机器人训练机器，讯飞星火智能体
+drpy的机器人训练机器，讯飞星火智能体。
+
+* 智能体数据集主页: [https://xinghuo.xfyun.cn/botcenter/private-dataset](https://xinghuo.xfyun.cn/botcenter/private-dataset)
 
 使用了以下项目文档进行训练（据说下面一些文档是用 `vitepress` 写的）
 
