@@ -2,7 +2,7 @@
 
 drpy的机器人训练机器，讯飞星火智能体
 
-使用了以下项目文档进行训练
+使用了以下项目文档进行训练（据说下面一些文档是用 `vitepress` 写的）
 
 * [drpy](https://github.com/hjdhnx/dr_py)
 * [hipy](https://github.com/hjdhnx/hipy-server)
