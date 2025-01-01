@@ -4,6 +4,14 @@
     "markdown-pdf": "^11.0.0"
   },
   "type": "module",
+  "scripts": {
+    "build": "node index.js",
+    "dev": "node index.js",
+    "dev-win": "chcp 65001 && node index.js"
+  },
+  "engines": {
+    "node": ">17 <23"
+  },
   "name": "drpy-robot",
   "version": "1.0.0",
   "main": "index.js",
